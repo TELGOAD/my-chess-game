@@ -1,4 +1,6 @@
 JavaScript Chess Game by Aditya
+
+
 Welcome to the JavaScript Chess Game project—a browser-based chess game built using HTML, CSS, and JavaScript. This project provides a simple yet interactive chess-playing experience, complete with move highlighting, piece capture, and special moves like castling.
 
 Table of Contents
